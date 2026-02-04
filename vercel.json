@@ -8,13 +8,5 @@
     "app/api/contact/route.ts": {
       "runtime": "nodejs18.x"
     }
-  },
-  "env": {
-    "CONTACT_EMAIL_TO": "@contact-email-to",
-    "CONTACT_EMAIL_FROM": "@contact-email-from",
-    "SMTP_HOST": "@smtp-host",
-    "SMTP_PORT": "@smtp-port",
-    "SMTP_USER": "@smtp-user",
-    "SMTP_PASS": "@smtp-pass"
   }
 }
