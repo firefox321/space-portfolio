@@ -5,6 +5,8 @@
     "CONTACT_EMAIL_FROM": "Portfolio <bharatg03246@gmail.com>",
     "SMTP_HOST": "smtp.gmail.com",
     "SMTP_PORT": "587",
-    "SMTP_USER": "bharatg03246@gmail.com"
+    "SMTP_USER": "bharatg03246@gmail.com",
+    "SMTP_PASS": "<your Gmail App Password>"
+
   }
 }
