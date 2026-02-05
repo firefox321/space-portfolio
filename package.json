@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@react-three/drei": "9.56.0",
-    "@react-three/fiber": "8.15.10",
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.18.0",
     "clsx": "^2.1.1",
     "gsap": "^3.12.7",
     "howler": "^2.2.4",
@@ -19,7 +19,7 @@
     "nodemailer": "^6.9.16",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "three": "0.152.2",
+    "three": "^0.170.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
